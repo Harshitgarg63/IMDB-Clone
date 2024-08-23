@@ -69,11 +69,11 @@ function Movies() {
     },[pageNum])
   return (
     <div className='bg-gray-800'>
-        <div className='text-2xl mb-8 font-bold text-center text-yellow-600'>
-          Tranding... Movies
+        <div className='text-2xl mb-8 pt-10 font-bold text-center text-yellow-600'>
+          Trending... Movies
         </div>
 
-        <div className='flex flex-wrap'>
+        <div className='flex flex-wrap cursor-pointer'>
           {movies.map((movie)=>{
                return   <div 
                
