@@ -1,0 +1,12 @@
+Project DESCRIPTIONS : INDB clone
+
+we will be creating an INDB clone,where we will fetch real time tranding movies data and will show it in grid formate, we will be designing the whole APPLICATION BY USING Tailwind css
+
+Features:
+1. user will be able to view all the latest & tranding movies.(TMDB API)
+2. user can create his own seprated watchlist.
+3. filter movies according to generes.
+4. short movies according to rating.
+5. Pagination will be implemented to move from one page to another page with updated data.
+6. searching of the movies.
+7. we will deploying this app to Netlify.
